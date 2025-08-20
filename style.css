@@ -30,6 +30,7 @@ img {
 
 .direita-amarelo {
     justify-content: space-between;
+    
 }
 
 .amarelo {
@@ -47,4 +48,23 @@ img {
     flex-direction: column;
     height: 960px;
     align-items: flex-start;
+}
+
+.fundo{
+    background-color: aqua;
+    flex-direction: column;
+    height: 960px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.pink{
+    display: flex;
+    background-color: pink;
+justify-content: space-between;
+}
+.iconCenter{
+    justify-content: space-between;
+    background-color: yellow;
+    display: flex;
 }
